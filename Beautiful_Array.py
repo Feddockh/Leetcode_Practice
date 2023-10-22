@@ -1,5 +1,3 @@
-# I did struggle with this one because I was unfamilar with the math concepts required
-# This problem required an understanding of permutations which is taught in MATH 0480 which I did not take
 
 class Solution(object):
     def beautifulArray(self, n):
